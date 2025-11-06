@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on my personal website/portfolio.
+💻 Passionate about web development.
+🌱 Always learning and exploring new technologies.
+📫 Feel free to connect with me!
 <!--
 **HugoHLZhang/HugoHLZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
